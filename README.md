@@ -105,10 +105,6 @@ After simulation, use Cadence\'s waveform viewer to examine the outputs.
 
 # 
 
-# 
-
-# 
-
 # **Conclusion:**
 
 The AXI to APB Bridge design successfully integrates two distinct
@@ -116,4 +112,3 @@ protocols, ensuring efficient and seamless communication between
 high-speed AXI masters and low-power APB peripherals. The comprehensive
 testing in **Cadence** confirms its reliability, making it suitable for
 deployment in embedded systems.
-
